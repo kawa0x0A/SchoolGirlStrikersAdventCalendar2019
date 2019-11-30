@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 ---
-<ul>
   {% for post in site.posts %}
-    <li>
+    <h1>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    </h1>
   {% endfor %}
-</ul>
