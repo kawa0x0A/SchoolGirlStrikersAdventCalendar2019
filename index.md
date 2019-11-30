@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 {% for post in site.posts limit :10 %}
   <h1>
