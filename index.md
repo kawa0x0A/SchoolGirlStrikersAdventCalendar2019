@@ -6,8 +6,6 @@ layout: default
     <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   </h1>
   <br>
-  {% endunless %}  
-
   {{ post.content }}
   <hr>
 {% endfor %}
