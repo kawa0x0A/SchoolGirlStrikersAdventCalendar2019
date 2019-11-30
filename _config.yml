@@ -1,4 +1,5 @@
 title: スクールガールストライカーズ2 アドベントカレンダー 2019
 show_downloads: false
 theme: slate
+permalink: /:year/:month/:day/:title:output_ext
 BASE_PATH: "SchoolGirlStrikersAdventCalendar2019/"
