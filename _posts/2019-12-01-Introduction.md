@@ -19,7 +19,13 @@ title : スクストとの出会い (おまけ:アドベントカレンダーに
 # スクストとの出会い
 このスライドがTwitterで話題になっていて、そこから興味を持ち始めて遊ぶようになりました。
 
+---
+
+スクールガールストライカーズの内製クライアントエンジン
+
 [https://www.jp.square-enix.com/conference/2014/technical_seminar/img/pdf/SQEX_DevCon_sugimoto.pdf](https://www.jp.square-enix.com/conference/2014/technical_seminar/img/pdf/SQEX_DevCon_sugimoto.pdf)
+
+---
 
 現在でもそうですが、当時も動作が早く気軽に遊べたので毎日遊ぶようになり、徐々にハマっていった感じです。
 
