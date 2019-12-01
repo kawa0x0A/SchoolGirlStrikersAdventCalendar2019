@@ -1,6 +1,6 @@
 title: スクールガールストライカーズ2 アドベントカレンダー 2019
 show_downloads: false
 theme: slate
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title
 url: https://kawa0x0a.github.io
 baseurl: /SchoolGirlStrikersAdventCalendar2019
