@@ -3,7 +3,7 @@ layout : post
 title : スクストとの出会い (おまけ:アドベントカレンダーについて)
 ---
 
-この記事は『スクールガールストライカーズ2 Advent Calendar 2019』(https://adventar.org/calendars/4503) の12/1分の記事です。
+この記事は[『スクールガールストライカーズ2 Advent Calendar 2019』](https://adventar.org/calendars/4503) の12/1分の記事です。
 
 # 自己紹介
  はじめまして。
@@ -12,14 +12,20 @@ title : スクストとの出会い (おまけ:アドベントカレンダーに
 
  普段はIT系の会社でプログラムを書いたりして生活しています。
 
- スクストのログイン日数は今日の時点で1780日なので、現在のスクスト歴は約5年弱です。
+ スクストのログイン日数は今日の時点で1870日なので、現在のスクスト歴は約5年です。
 
  よろしくお願いします。
 
 # スクストとの出会い
 このスライドがTwitterで話題になっていて、そこから興味を持ち始めて遊ぶようになりました。
 
-https://www.jp.square-enix.com/conference/2014/technical_seminar/img/pdf/SQEX_DevCon_sugimoto.pdf
+---
+
+スクールガールストライカーズの内製クライアントエンジン
+
+[https://www.jp.square-enix.com/conference/2014/technical_seminar/img/pdf/SQEX_DevCon_sugimoto.pdf](https://www.jp.square-enix.com/conference/2014/technical_seminar/img/pdf/SQEX_DevCon_sugimoto.pdf)
+
+---
 
 現在でもそうですが、当時も動作が早く気軽に遊べたので毎日遊ぶようになり、徐々にハマっていった感じです。
 
