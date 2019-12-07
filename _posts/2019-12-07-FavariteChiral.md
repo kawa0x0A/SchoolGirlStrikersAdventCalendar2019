@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 好きなエピソードキラルI/Oストーリー
+title : 好きな Episode Chiral I/O ストーリー
 ---
 
 この記事は[『スクールガールストライカーズ2 Advent Calendar 2019』](https://adventar.org/calendars/4503) の12/7分の記事です。
