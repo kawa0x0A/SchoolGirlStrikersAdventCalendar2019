@@ -34,6 +34,7 @@ title : 好きな Episode Chiral I/O ストーリー
 
 ![敗訴]({{ site.baseurl }}/assets/images/posts/20191207_6.PNG)
 
+
 # 第6話 『オールド・オーダー』
 
 スクストにおいて非常に重要な言葉「もしも」
@@ -41,6 +42,7 @@ title : 好きな Episode Chiral I/O ストーリー
 エピソードキラルでも登場します
 
 ![もしも]({{ site.baseurl }}/assets/images/posts/20191207_7.PNG)
+
 
 # 第9話 『イノセント・マインド』
 
