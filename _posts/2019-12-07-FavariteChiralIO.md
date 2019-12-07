@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 好きなエピソードキラルI/Oストーリー
+title : 好きな Episode Chiral I/O ストーリー
 ---
 
 この記事は[『スクールガールストライカーズ2 Advent Calendar 2019』](https://adventar.org/calendars/4503) の12/7分の記事です。
@@ -45,6 +45,8 @@ title : 好きなエピソードキラルI/Oストーリー
 # 第9話 『イノセント・マインド』
 
 ![運]({{ site.baseurl }}/assets/images/posts/20191207_8.PNG)
+
+運任せで開いたらどうするつもりだったんだろう……
 
 第9話のラストシーンも好きなのですがネタバレ防止のためにスクショなしになってます。
 
